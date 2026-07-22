@@ -6,12 +6,18 @@ Vamos iniciar falando da hierarquia e estilos simples.
 
 Exemplo de uso da estilização em negrito **Palavra de exemplo** utiliza-se **.
 
+texto de exemplo 
+
+Olá Pessoal - sejam bem vindos.
+
+Que tenhamos um semestre incrivel"""
+
 Exemplo de uso da estilização em itálico *Palavra de exemplo* utiliza-se *.
 
 Exemplo de uso da estilização em tachado ~~Palavra de exemplo~~ utiliza-se ~~.
 
 # Lista de compras
-
+## subtitulo 
 - Arroz
 - Feijão
 - Abacate
